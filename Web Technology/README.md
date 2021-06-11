@@ -8,6 +8,10 @@
 
 ## Framework Used: Django
 
+## Project Link: https://github.com/salonishah01/MiniFlix
+
+## Demo Link: https://miniflix-02.herokuapp.com/in/
+
 ### Teammates 
 
 1. Saloni Shah
